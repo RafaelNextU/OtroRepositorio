@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <title>Datos Personales - EDUCACIÓN</title>
+  </head>
+  <body>
+    <header>
+      <svg width="150px" height="150px" viewBox="40 40 280 280">
+        <image width="300px" height="350px" xlink:href="img/logo-RRL-_2_.svg"></image>
+      </svg>
+    </header>
+    <h1>Hoja de vida</h1>
+    <h2>Datos personales</h2>
+    <h3>Nombre: Rafael</h3>
+    <h3>Apellidos: Rotela Leite</h3>
+    <h3>Lugar de nacimiento: Asunción - Paraguay</h3>
+    <h3>Fecha de nacimiento: 09/09/1989</h3>
+    <ul>
+      <li><a href="index.html" target="_blank" >Inicio</a></li>
+      <li><a href="educación.html" target="_blank">Educación</a></li>
+      <li><a href="experiencia.html" target="_blank">Experiencia</a></li>
+    </ul>
+    <h2>Educación</h2>
+      <table border="1" cellpadding="5", cellspacing="1">
+      <thead>
+        <tr>
+          <th>Año</th>
+          <th>Institución</th>
+          <th>Lugar</th>
+          <th>Título ó Certificado en:</th>
+          <th>¿Culminó?</th>
+        </tr>
+      <tbody>
+        <tr>
+          <td>2014</td>
+          <td>Todo sobre Ventas</td>
+          <td>Asunción</td>
+          <td>Liderazgo y motivación de equipos de ventas</td>
+          <td>SI</td>
+        </tr>
+        <tr>
+          <td>2015</td>
+          <td>Universidad del Norte</td>
+          <td>Ciudad del Este</td>
+          <td>Licenciatura en Administración de Empresas</td>
+          <td>SI</td>
+        </tr>
+        <tr>
+          <td>2016</td>
+          <td>Consultora ELEVATE BUSINESS</td>
+          <td>Ciudad del Este</td>
+          <td>«Capacitación en Educación Financiera »</td>
+          <td>SI</td>
+        </tr>
+      </tbody>
+      </table>
+      <form>
+        <h3>Agregar Estudios</h3>
+        <p><strong>Año:</strong>
+          <select>
+            <option>2016</option>
+            <option>2015</option>
+            <option>2014</option>
+            <option>2013</option>
+            <option>2012</option>
+            <option>2011</option>
+          </select>
+        </p>
+        <p><label for="Institución"><strong>Institución:</strong></label>
+          <input id="institución" type="text" size="50px" required>
+        </p>
+        <p><strong>Lugar:</strong>
+          <input id="Lugar" type="text" size="60px" required>
+        </p>
+        <p><strong>¿Culminó?</strong>
+          <input type="radio" name="yes" value="yes">Sí
+          <input type="radio" name="no" value="no">No
+        </p>
+        <p><label for=""></label>
+          <input type="submit">
+        </p>
+    </form>
+    <footer>
+        DERECHOS RESERVADOS
+      <ul>
+        <li><strong>Email:</strong> ralf9989@hotmail.com</li>
+        <li><strong>Teléfono:</strong> +595 971 853 360</li>
+        <li><strong>Dirección:</strong> Calle Emigdia Báez c/ Avda. San José- CIUDAD DEL ESTE</li>
+      </ul>
+    </footer>
+</html>
