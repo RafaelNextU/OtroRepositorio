@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <title>Datos Personales</title>
+  </head>
+  <body>
+    <header>
+      <svg width="150px" height="150px" viewBox="40 40 280 280">
+        <image width="300px" height="350px" xlink:href="img/logo-RRL-_2_.svg"></image>
+      </svg>
+    </header>
+    <h1>Hoja de vida</h1>
+    <h2>Datos personales</h2>
+    <h3>Nombre: Rafael</h3>
+    <h3>Apellidos: Rotela Leite</h3>
+    <h3>Lugar de nacimiento: Asunción - Paraguay</h3>
+    <h3>Fecha de nacimiento: 09/09/1989</h3>
+    <ul>
+      <li><a href="index.html">Inicio</a></li>
+      <li><a href="educación.html" target="_blank">Educación</a></li>
+      <li><a href="experiencia.html" target="_blank">Experiencia</a></li>
+    </ul>
+    <h2>Información personal</h2>
+    <img src="img/rafaelfoto.jpg" alt="foto rafael" width="250px" height="200px">
+    <h2>Perfil</h2>
+    <p>
+      Me considero una persona con iniciativa, me adapto a diferentes situaciones, trabajo en equipo y sé comunicar.<br>
+      Con gran capacidad de análisis y resolución de problemas.<br>
+      Facilidad para aprender a usar nuevas tecnologías.<br>
+      Elevado desarrollo interpersonal.<br>
+      Buen manejo de herramientas informáticas.<br>
+      Motivador.<br>
+      Persuasivo.
+    </p>
+    <h3>Idiomas</h3>
+    <ul>
+      <li>Español</li>
+      <li>Guaraní</li>
+      <li>Inglés</li>
+      <li>Portugués</li>
+    </ul>
+  </body>
+  <footer>
+      DERECHOS RESERVADOS
+    <ul>
+      <li><strong>Email:</strong> ralf9989@hotmail.com</li>
+      <li><strong>Teléfono:</strong> +595 971 853 360</li>
+      <li><strong>Dirección:</strong> Calle Emigdia Báez c/ Avda. San José- CIUDAD DEL ESTE</li>
+    </ul>
+  </footer>
+</html>
