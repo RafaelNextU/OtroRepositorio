@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <title>Datos Personales - EXPERIENCIA</title>
+  </head>
+  <body>
+    <header>
+      <svg width="150px" height="150px" viewBox="40 40 280 280">
+        <image width="300px" height="350px" xlink:href="img/logo-RRL-_2_.svg"></image>
+      </svg>
+    </header>
+    <h1>Hoja de vida</h1>
+    <h2>Datos personales</h2>
+    <h3>Nombre: Rafael</h3>
+    <h3>Apellidos: Rotela Leite</h3>
+    <h3>Lugar de nacimiento: Asunción - Paraguay</h3>
+    <h3>Fecha de nacimiento: 09/09/1989</h3>
+    <ul>
+      <li><a href="index.html" target="_blank">Inicio</a></li>
+      <li><a href="educación.html" target="_blank">Educación</a></li>
+      <li><a href="experiencia.html" target="_blank">Experiencia</a></li>
+    </ul>
+    <h2>Experiencia</h2>
+    <p><strong>Habilidades e intereses profesionales</strong></p>
+    <video src="videoexamen.3gp" controls width="500px" height="500px"></video>
+    <p><strong>Hobbies y actividades recreacionales</strong></p>
+    <audio src="audioexamen.mp3" controls></audio>
+    <footer>
+        DERECHOS RESERVADOS
+      <ul>
+        <li><strong>Email:</strong> ralf9989@hotmail.com</li>
+        <li><strong>Teléfono:</strong> +595 971 853 360</li>
+        <li><strong>Dirección:</strong> Calle Emigdia Báez c/ Avda. San José- CIUDAD DEL ESTE</li>
+      </ul>
+    </footer>
+</html>
